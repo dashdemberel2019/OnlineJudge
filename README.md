@@ -7,7 +7,7 @@
 
 > #### An onlinejudge system based on Python and Vue. [Demo](https://qduoj.com)
 
-[中文文档](README-CN.md) [mongol]
+[中文文档](README-CN.md) [Mongol]
 
 ## Overview
 
