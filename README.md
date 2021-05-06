@@ -7,30 +7,30 @@
 
 > #### An onlinejudge system based on Python and Vue. [Demo](https://qduoj.com)
 
-[中文文档](README-CN.md)
+[中文文档](README-CN.md) [mongol]
 
 ## Overview
 
-+ Based on Docker; One-click deployment
-+ Separated backend and frontend; Modular programming; Micro service
-+ ACM/OI rule support; realtime/non-realtime rank support
-+ Amazing charting and visualization
-+ Template-problem support
-+ More reasonable permission control
-+ Multi-language support: `C`, `C++`, `Java`, `Python2`, `Python3`
-+ Markdown & MathJax support
-+ Contest participants IP limit(CIDR)
+- Based on Docker; One-click deployment
+- Separated backend and frontend; Modular programming; Micro service
+- ACM/OI rule support; realtime/non-realtime rank support
+- Amazing charting and visualization
+- Template-problem support
+- More reasonable permission control
+- Multi-language support: `C`, `C++`, `Java`, `Python2`, `Python3`
+- Markdown & MathJax support
+- Contest participants IP limit(CIDR)
 
 Main modules are available below:
 
-+ Backend(Django): [https://github.com/QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge)
-+ Frontend(Vue): [https://github.com/QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE)
-+ Judger Sandbox(Seccomp): [https://github.com/QingdaoU/Judger](https://github.com/QingdaoU/Judger)
-+ JudgeServer(A wrapper for Judger): [https://github.com/QingdaoU/JudgeServer](https://github.com/QingdaoU/JudgeServer)
+- Backend(Django): [https://github.com/QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge)
+- Frontend(Vue): [https://github.com/QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE)
+- Judger Sandbox(Seccomp): [https://github.com/QingdaoU/Judger](https://github.com/QingdaoU/Judger)
+- JudgeServer(A wrapper for Judger): [https://github.com/QingdaoU/JudgeServer](https://github.com/QingdaoU/JudgeServer)
 
 ## Installation
 
-Follow me:  [https://github.com/QingdaoU/OnlineJudgeDeploy/tree/2.0](https://github.com/QingdaoU/OnlineJudgeDeploy/tree/2.0)
+Follow me: [https://github.com/QingdaoU/OnlineJudgeDeploy/tree/2.0](https://github.com/QingdaoU/OnlineJudgeDeploy/tree/2.0)
 
 ## Documents
 
@@ -60,7 +60,7 @@ You can control the menu and chart status in rankings.
 
 ![user-home](https://user-images.githubusercontent.com/20637881/33365521-7842d808-d523-11e7-84c1-2e2aa0079f32.png)
 
-### Admin: 
+### Admin:
 
 ![admin-users](https://user-images.githubusercontent.com/20637881/33372516-42c34fda-d539-11e7-9f4e-5109477f83be.png)
 
@@ -76,9 +76,9 @@ Modern browsers(chrome, firefox) and Internet Explorer 10+.
 
 ## Thanks
 
-+ I'd appreciate a star if you find this helpful.
-+ Thanks to everyone that contributes to this project.
-+ Special thanks to [heb1c](https://github.com/hebicheng), who has given us a lot of suggestions.
+- I'd appreciate a star if you find this helpful.
+- Thanks to everyone that contributes to this project.
+- Special thanks to [heb1c](https://github.com/hebicheng), who has given us a lot of suggestions.
 
 ## License
 

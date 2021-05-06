@@ -11,26 +11,26 @@
 
 ## 概览
 
-+ 基于 Docker，真正一键部署
-+ 前后端分离，模块化编程，微服务
-+ ACM/OI 两种比赛模式、实时/非实时评判 任意选择
-+ 丰富的可视化图表，一图胜千言
-+ 支持 Template Problem，可以添加函数题甚至填空题
-+ 更细致的权限划分，超级管理员和普通管理员各司其职
-+ 多语言支持：`C`, `C++`, `Java`, `Python2`, `Python3`，题目可以选择使用的语言
-+ Markdown & MathJax 支持
-+ 比赛用户IP限制 (CIDR ranges)
+- 基于 Docker，真正一键部署
+- 前后端分离，模块化编程，微服务
+- ACM/OI 两种比赛模式、实时/非实时评判 任意选择
+- 丰富的可视化图表，一图胜千言
+- 支持 Template Problem，可以添加函数题甚至填空题
+- 更细致的权限划分，超级管理员和普通管理员各司其职
+- 多语言支持：`C`, `C++`, `Java`, `Python2`, `Python3`，题目可以选择使用的语言
+- Markdown & MathJax 支持
+- 比赛用户 IP 限制 (CIDR ranges)
 
 主要模块均已开源:
 
-+ 后端(Django): [https://github.com/QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge)
-+ 前端(Vue): [https://github.com/QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE)
-+ 判题沙箱(Seccomp): [https://github.com/QingdaoU/Judger](https://github.com/QingdaoU/Judger)
-+ 判题服务器(对Judger的封装): [https://github.com/QingdaoU/JudgeServer](https://github.com/QingdaoU/JudgeServer)
+- 后端(Django): [https://github.com/QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge)
+- 前端(Vue): [https://github.com/QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE)
+- 判题沙箱(Seccomp): [https://github.com/QingdaoU/Judger](https://github.com/QingdaoU/Judger)
+- 判题服务器(对 Judger 的封装): [https://github.com/QingdaoU/JudgeServer](https://github.com/QingdaoU/JudgeServer)
 
 ## 安装
 
-请根据此进行安装:  [https://github.com/QingdaoU/OnlineJudgeDeploy/tree/2.0](https://github.com/QingdaoU/OnlineJudgeDeploy/tree/2.0)
+请根据此进行安装: [https://github.com/QingdaoU/OnlineJudgeDeploy/tree/2.0](https://github.com/QingdaoU/OnlineJudgeDeploy/tree/2.0)
 
 ## 文档
 
@@ -38,7 +38,7 @@
 
 ## 截图
 
-### OJ前台
+### OJ 前台
 
 ![problem-list](https://user-images.githubusercontent.com/20637881/33372506-402022e4-d539-11e7-8e64-6656f8ceb75a.png)
 
@@ -68,17 +68,16 @@ Rankings 中可以控制图表和菜单的显隐。
 
 ![create-contest](https://user-images.githubusercontent.com/20637881/33372514-428ab922-d539-11e7-8f68-da55dedf3ad3.png)
 
-
 ## 浏览器支持
 
 Modern browsers(chrome, firefox) 和 Internet Explorer 10+.
 
 ## 特别感谢
 
-+ 所有为本项目做出贡献的人
-+ [heb1c](https://github.com/hebicheng) 同学为我们提供了很多意见和建议
+- 所有为本项目做出贡献的人
+- [heb1c](https://github.com/hebicheng) 同学为我们提供了很多意见和建议
 
-如果您觉得这个项目还不错，就star一下吧 ：)
+如果您觉得这个项目还不错，就 star 一下吧 ：)
 
 ## 许可
 
